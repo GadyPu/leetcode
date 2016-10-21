@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-###Leetcode soltions solve by GadyPu
+###Leetcode soltions solve by GadyPu 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
