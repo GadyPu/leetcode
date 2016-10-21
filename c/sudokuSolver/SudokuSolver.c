@@ -18,7 +18,7 @@ int judge(char **board, int x, int y, char c) {
 	}
 	return 1;
 }
-int dfs1(char **board, int x, int y) {
+int dfs_1(char **board, int x, int y) {
 	int i;
 	while(board[x][y] != '.' && (x < 8 || y < 8)) {
 		if(y == 8) y = 0, x++; 
@@ -28,7 +28,7 @@ int dfs1(char **board, int x, int y) {
 	for(i = 1; i <= 9; i++) {
 		if(judge(board, x, y, i + '0')) {
 			board[x][y] = i + '0';
-			if(dfs1(board, x, y)) return 1;
+			if(dfs_1(board, x, y)) return 1;
 			board[x][y] = '.';
 		}
 	}
