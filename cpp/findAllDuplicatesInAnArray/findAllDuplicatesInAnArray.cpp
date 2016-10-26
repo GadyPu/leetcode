@@ -14,7 +14,7 @@ public:
     }
 };
 int main() {
-	vector<int> A = { 4, 3, 2, 7, 2, 3, 1};
+	vector<int> A = { 4, 3, 2, 7, 2, 3, 1 };
 	Solution d;
 	vector<int> res = d.findDuplicates(A);
 	for(int &r: res) cout << r << ' ';
