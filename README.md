@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./cpp/findAllDuplicatesInAnArray/findAllDuplicatesInAnArray.cpp)|Medium|
 |419|[Battleships in a Board ](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./cpp/battleshipsInABoard/battleshipsInABoard.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./cpp/addStrings/addStrings.cpp)|Easy|
 |412|[ Fizz Buzz  ](https://leetcode.com/problems/fizz-buzz/) | [C](./c/fizzBuzz/fizzBuzz.c)|Easy|
