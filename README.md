@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|443|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [C++](./cpp/minimumGeneticMutation/dbfs.cpp)|Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./cpp/findAllDuplicatesInAnArray/findAllDuplicatesInAnArray.cpp)|Medium|
 |419|[Battleships in a Board ](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./cpp/battleshipsInABoard/battleshipsInABoard.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./cpp/addStrings/addStrings.cpp)|Easy|
