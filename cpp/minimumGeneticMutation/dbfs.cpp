@@ -51,6 +51,4 @@ int main() {
 	vector<string> bank = { "AAAACCCC", "AAACCCCC", "AACCCCCC" };
 	cout <<	d.minMutation("AAAAACCC", "AACCCCCC", bank) << '\n';
 	return 0;
-
-	return 0;
 }
