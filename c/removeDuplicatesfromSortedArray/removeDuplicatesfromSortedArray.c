@@ -19,7 +19,7 @@ void output(int *num, int numSize) {
 }
 int main() {
 	int A[] = { 1, 2, 3, 4 };
-	int B[] = { 1, 2, 3, 3, 4, 5, 5};	
+	int B[] = { 1, 2, 3, 3, 4, 5, 5 };	
 	output(A, sizeof(A) / sizeof(int));
 	output(B, sizeof(B) / sizeof(int));
 	output(A, removeDuplicates(A, sizeof(A) / sizeof(int)));
