@@ -16,6 +16,7 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./cpp/addStrings/addStrings.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C](./c/fizzBuzz/fizzBuzz.c)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./cpp/binaryWatch/binaryWatch.cpp)|Easy|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./cpp/SlidingWindowMaximum/SlidingWindowMaximum.cpp)|Hard|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C](./c/constructBinaryTreefromInorderandPostorderTraversal/constructBinaryTreefromInorderandPostorderTraversal.c)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C](./c/constructBinaryTreefromPreorderandInorderTraversal/constructBinaryTreefromPreorderandInorderTraversal.c)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C](./c/sudokuSolver/SudokuSolver.c)|Hard|
