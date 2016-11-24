@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/) | [C++](./cpp/LFUCache/LFUCache.cpp)|Hard|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./cpp/4SumII/4SumII.cpp)|Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./cpp/deleteNodeinaBST/deleteNodeinaBST.cpp)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./cpp/findAllNumbersDisappearedinanArray/findAllNumbersDisappearedinanArray.cpp)|Medium|
