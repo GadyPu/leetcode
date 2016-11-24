@@ -1,0 +1,8 @@
+1
+get 1
+set 2 2
+set 3 3
+set 4 4
+get 4
+get 2
+get 1
