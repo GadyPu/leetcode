@@ -43,7 +43,7 @@ public:
 private:
     size_t idx, size;
     std::map<int, Node> A; // key Node
-    std::set<Node> B; // 
+    std::set<Node> B; 
 };
 int main() {
 #ifdef DBG
