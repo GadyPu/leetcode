@@ -17,6 +17,7 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./cpp/addStrings/addStrings.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C](./c/fizzBuzz/fizzBuzz.c)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./cpp/binaryWatch/binaryWatch.cpp)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [C](./c/UglyNumber/UglyNumber.c)|Easy|
 |252|[Add Digits](https://leetcode.com/problems/add-digits/) | [C](./c/AddDigits/AddDigits.c)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./cpp/ValidAnagram/ValidAnagram.cpp)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./cpp/SlidingWindowMaximum/SlidingWindowMaximum.cpp)|Hard|
