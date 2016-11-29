@@ -25,5 +25,6 @@ LeetCode
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./cpp/LRUCache/LRUCache.cpp)|Hard|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C](./c/constructBinaryTreefromInorderandPostorderTraversal/constructBinaryTreefromInorderandPostorderTraversal.c)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C](./c/constructBinaryTreefromPreorderandInorderTraversal/constructBinaryTreefromPreorderandInorderTraversal.c)|Medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](./c/MergeSortedArray/MergeSortedArray.c)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C](./c/sudokuSolver/SudokuSolver.c)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](./c/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c)|Easy|
