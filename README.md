@@ -25,6 +25,7 @@ LeetCode
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [C](./c/PowerofTwo/PowerofTwo.c)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./cpp/MajorityElement/MajorityElement.cpp)|Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./cpp/LRUCache/LRUCache.cpp)|Hard|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/SingleNumber.c)|Easy|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C](./c/constructBinaryTreefromInorderandPostorderTraversal/constructBinaryTreefromInorderandPostorderTraversal.c)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C](./c/constructBinaryTreefromPreorderandInorderTraversal/constructBinaryTreefromPreorderandInorderTraversal.c)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](./c/MergeSortedArray/MergeSortedArray.c)|Easy|
