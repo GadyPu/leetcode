@@ -24,6 +24,7 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./cpp/ValidAnagram/ValidAnagram.cpp)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./cpp/SlidingWindowMaximum/SlidingWindowMaximum.cpp)|Hard|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [C](./c/PowerofTwo/PowerofTwo.c)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C](./c/ReverseBits/ReverseBits.c)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./cpp/MajorityElement/MajorityElement.cpp)|Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./cpp/LRUCache/LRUCache.cpp)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [C](./c/SingleNumber/SingleNumber.c)|Easy|
