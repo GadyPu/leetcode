@@ -34,4 +34,5 @@ LeetCode
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](./c/MergeSortedArray/MergeSortedArray.c)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C](./c/sudokuSolver/SudokuSolver.c)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](./c/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c)|Easy|
-|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C](./c/RomantoInteger/RomantoInteger.c)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C](./c/RomantoInteger/RomantoInteger.c)|Easy|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./cpp/IntegertoRoman/IntegertoRoman.cpp)|Medium|
