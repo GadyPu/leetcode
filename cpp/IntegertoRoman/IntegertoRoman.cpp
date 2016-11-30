@@ -4,7 +4,7 @@ class Solution {
 public:
     string intToRoman(int num) {
         string res;
-        vector<pair<string, int>> mp = {
+        vector<pair<string, int>> dic = {
             { "M", 1000 },
             { "CM", 900 },
             { "D", 500 },
@@ -19,7 +19,7 @@ public:
             { "IV", 4 },
             { "I", 1 }
         };
-        for(auto &r: mp) {
+        for(auto &r: dic) {
             int d = num / r.second;
             while(d) {
                 res += r.first;
