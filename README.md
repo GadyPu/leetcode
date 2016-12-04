@@ -11,6 +11,7 @@ LeetCode
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./cpp/findAllNumbersDisappearedinanArray/findAllNumbersDisappearedinanArray.cpp)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [C](./c/addTwoNumbersII/addTwoNumbersII.c)|Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./cpp/findAllDuplicatesInAnArray/findAllDuplicatesInAnArray.cpp)|Medium|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [C++](./cpp/number-of-segments-in-a-string/number-of-segments-in-a-string.cpp)|Easy|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [C++](./cpp/minimumGeneticMutation/dbfs.cpp)|Medium|
 |432|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [C++](./cpp/allOoneDataStructure/allOoneDataStructure.cpp)|Hard|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./cpp/battleshipsInABoard/battleshipsInABoard.cpp)|Medium|
