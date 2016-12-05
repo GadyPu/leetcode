@@ -18,6 +18,7 @@ LeetCode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./cpp/addStrings/addStrings.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C](./c/fizzBuzz/fizzBuzz.c)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./cpp/binaryWatch/binaryWatch.cpp)|Easy|
+|394|[Decode String](https://leetcode.com/problems/decode-string/) | [C++](./cpp/decodeString/decodeString.cpp)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C](./c/CountingBits/CountingBits.c)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C](./c/MoveZeroes/MoveZeroes.c)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C](./c/MissingNumber/MissingNumber.c)|Easy|
