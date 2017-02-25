@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/?tab=Description) | [C++](./cpp/SlidingWindowMedian/SlidingWindowMedian.cpp)|Hard|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/) | [C++](./cpp/LFUCache/LFUCache.cpp)|Hard|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./cpp/4SumII/4SumII.cpp)|Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./cpp/deleteNodeinaBST/deleteNodeinaBST.cpp)|Medium|
