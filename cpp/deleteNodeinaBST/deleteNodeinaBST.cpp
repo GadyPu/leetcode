@@ -10,16 +10,17 @@ class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
 		if(!root) return nullptr;
-		function<void(TreeNode *, int)> erase = [&erase](TreeNode *x, int val) {
+		function<void(TreeNode *&, int)> erase = [&erase](TreeNode *&x, int val) {
+			if (!x) return;
 			if(x->val == val) {
-				TreeNode *temp = nullptr;
+				TreeNode *temp = x;
 				if(!x->left || !x->right) {
 					x = x->left ? x->left : x->right;
 					delete temp;
 				} else {
-					for(temp = x->left; temp->left; temp = temp->left);
+					for(temp = x->right; temp->left; temp = temp->left);
 					x->val = temp->val;
-					erase(x->left, x->val);
+					erase(x->right, x->val);
 				}
 			} else if(val < x->val) {
 				erase(x->left, val);
