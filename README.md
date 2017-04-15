@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/#/description) | [C++](./cpp/FindLargestValueinEachTreeRow/FindLargestValueinEachTreeRow.cpp)|Medium|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/?tab=Description) | [C++](./cpp/SlidingWindowMedian/SlidingWindowMedian.cpp)|Hard|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/) | [C++](./cpp/LFUCache/LFUCache.cpp)|Hard|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./cpp/4SumII/4SumII.cpp)|Medium|
